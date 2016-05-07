@@ -18,6 +18,6 @@
 
 ### 角色划分
 
-> 这里分工主要是前端 Component 开发之间的分工，则可带来跨 Component 的 Action、Reducer、Store 复用。
+> 这里分工主要是前端 Component 开发之间的分工，所以带来跨 Component 的 Action、Reducer、Store 复用，相当于给开发者抽象出可复用的部分。
 
 * 前端 —— 完成所有页面逻辑 & 交互，并通过概念划分解耦复用
